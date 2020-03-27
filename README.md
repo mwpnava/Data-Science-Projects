@@ -25,6 +25,6 @@ through Jupyter Notebooks and datasets (csv files).
 
 
 
-### Author
+## Author
 
 [Wendy Navarrete](http://wendynavarrete.com)
