@@ -14,7 +14,7 @@ through Jupyter Notebooks and datasets (csv files).
 
   - [Predictions of Admissions to Master's Degree (Supervised Learning):](https://github.com/mwpnava/thinkful/blob/master/Linear_regression.ipynb) Using a Linear Regression Algorithm, this project was developed to predict the chance of admission of foreign students to Master's Degree Programs in American Colleges.
 
-*Tools: Scikit-learn, pandas, numpy, matplotlib adn seaborn*
+*Tools: Scikit-learn, pandas, numpy, matplotlib and seaborn*
 
 
 - ### Data Analysis and Visualization
