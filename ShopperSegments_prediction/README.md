@@ -14,7 +14,7 @@ The dataset consists of feature vectors belonging to 12,330 sessions.
 ### Tech:
 
 - Python 3
-- scikit-learning / clustering models:
+- scikit-learn / clustering models:
   - K-Means Model
   - Agglomerative
   - DBSCAN
