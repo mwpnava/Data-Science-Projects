@@ -12,16 +12,16 @@ through Jupyter Notebooks and datasets (csv files).
 
   - [Online News Popularity Prediction (Supervised Learning):](https://github.com/mwpnava/Data-Science-Projects/tree/master/Popularity_prediction) This is project which objective is to predict the popularity of articles published by Mashable website. The machine learning algorithms used for this project were: Random Forest, Support Vector Classification and KNN / K-Nearest Neighbor.
 
-  - [Predictions of Admissions to Master's Degree (Supervised Learning):](https://github.com/mwpnava/thinkful/blob/master/Linear_regression.ipynb) Using a Linear Regression Algorithm, this project was developed to predict the chance of admission of foreign students to Master's Degree Programs in American Colleges.
+  - [Predictions of Admissions to Master's Degree (Supervised Learning):](https://github.com/mwpnava/Data-Science-Projects/tree/master/Graduate_admissions) Using a Linear Regression Algorithm, this project was developed to predict the chance of admission of foreign students to Master's Degree Programs in American Colleges.
 
-*Tools: Scikit-learn, pandas, numpy, matplotlib and seaborn*
+*Tools: Python 3, Scikit-learn, pandas, numpy, matplotlib and seaborn*
 
 
 - ### Data Analysis and Visualization
 
-  - [Women Legal Rights in the World:](https://github.com/mwpnava/thinkful/blob/master/Capstone_1:Analytic_Report_and_Research_Proposal.ipynb) This is an Analytic Report of legal gender differentiation around the world. The analysis of data collected in 187 countries, from 2009 to 2018, highlights the inequity in terms of laws and regulations.
+  - [Women Legal Rights in the World:](https://github.com/mwpnava/Data-Science-Projects/tree/master/Women_rigths) This is an Analytic Report of legal gender differentiation around the world. The analysis of data collected in 187 countries, from 2009 to 2018, highlights the inequity in terms of laws and regulations.
 
-*Tools: Seaborn, pandas, and matplotlib*
+*Tools: Python 3, pandas, and matplotlib*
 
 
 
