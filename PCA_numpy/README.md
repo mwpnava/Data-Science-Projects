@@ -16,8 +16,8 @@ Retrieved from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/m
 - Python 3
 - numpy
   - np.cov()
-  - np.linalg.eig(covariance_matrix)
-  - np.linalg.svd(X.T) (it is an alternative to get eigenvalues and eigenvectors)
+  - np.linalg.eig()
+  - np.linalg.svd() (it is an alternative to get eigenvalues and eigenvectors)
   - np.cumsum()
   - np.dot()
 - pandas
