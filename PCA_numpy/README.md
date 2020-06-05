@@ -20,6 +20,10 @@ Retrieved from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/m
   - np.linalg.svd() (it is an alternative to get eigenvalues and eigenvectors)
   - np.cumsum()
   - np.dot()
+  - np.mean()
+  - np.std()
+  - np.zeros()
+  - np.empty()
 - pandas
 - matplotlib
 - seaborn
