@@ -19,11 +19,11 @@ through Jupyter Notebooks and datasets (csv files).
 *Tools: Python 3, Scikit-learn, pandas, numpy, matplotlib and seaborn*
 
 
-- ### Data Analysis and Visualization
+- ### Data Analytics, Visualization and miscellaneous
 
   - [Women Legal Rights in the World:](https://github.com/mwpnava/Data-Science-Projects/tree/master/Women_rigths) This is an Analytic Report of legal gender differentiation around the world. The analysis of data collected in 187 countries, from 2009 to 2018, highlights the inequity in terms of laws and regulations.
 
-  - [Creating my own Dataset of Boston Apartments Leasing (Web Scraping):]() The goal of this project is to create my own dataset for future analysis. Data was extracting from the RentHop site and store it into a CSV file (apartments_leasing.csv).
+  - [Creating my own Dataset of Boston Apartments Leasing (Web Scraping):](https://github.com/mwpnava/Data-Science-Projects/tree/master/Apartments_Leasing) The goal of this project is to create my own dataset for future analysis. Data was extracting from the RentHop site and store it into a CSV file (apartments_leasing.csv).
 
 *Tools: Python 3, pandas, matplotlib, BeautifulSoup*
 
