@@ -12,11 +12,15 @@ Assuming Python and pandas are already installed, these are two more libraries n
 
 1. requests
 
-`pip install requests`
+```sh
+pip install requests
+```
 
 2. BeautifulSoup
 
-`pip install beautifulsoup4`
+```sh
+pip install beautifulsoup4
+```
 
 
 ### Result Dataset
