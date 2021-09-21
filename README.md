@@ -21,6 +21,8 @@ through Jupyter Notebooks and datasets (csv files).
 
 - ### Data Analytics, Visualization and miscellaneous
 
+  - [A/B Test Analysis - email Campaign](https://github.com/mwpnava/Data-Science-Projects/tree/master/email_campaign) This project is an A/B Test Analysis, I will analyze the results of an email campaign experiment, which main objective is to influence customers to make a decision. I will apply the test of means analysis to verify weather the results of the campaign are occurring by chance or because the email strategy is working as expected.
+
   - [Women Legal Rights in the World:](https://github.com/mwpnava/Data-Science-Projects/tree/master/Women_rigths) This is an Analytic Report of legal gender differentiation around the world. The analysis of data collected in 187 countries, from 2009 to 2018, highlights the inequity in terms of laws and regulations.
 
   - [Creating my own Dataset of Boston Apartments Leasing (Web Scraping):](https://github.com/mwpnava/Data-Science-Projects/tree/master/Apartments_Leasing) The goal of this project is to create my own dataset for future analysis. Data was extracting from the RentHop site and store it into a CSV file (apartments_leasing.csv).
