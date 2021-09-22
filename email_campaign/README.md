@@ -28,7 +28,7 @@ The data set contains one row for each customer that participated in the month o
 6. score - the customer’s credit score, ranging from 0 (low risk) to 1 (high risk)
 7. date - the date on which the email was sent
 
-### Tech and Topics:
+### Topics:
 
 - A/B Test
 - Test of means
