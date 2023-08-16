@@ -8,6 +8,10 @@ through Jupyter Notebooks and datasets (csv files).
 
 - ### Machine Learning
 
+- [Topics Extraction from Conference Speeches](https://github.com/mwpnava/Data-Science-Projects/tree/master/Topics_Extraction) The objective of this project is to propose a way to extract key insights and topics efficiently from a group of conference speeches. I implemented a unsupervised learning model using the algorithm K-means, created wordcloud visualizations to represent the most frequent and relevant words in each cluster and finally, I utilized a topic modeling algorithm called Latent Dirichlet Allocation (LDA) to discover the underlying topics within the clusters.
+
+  - [Flight Delays Predictions](https://github.com/mwpnava/Flight-Delay-Predictions) This project consists of two parts: flight & weather datasets analysis and, flight delays prediction. One dataset has a year’s worth of all US flight delay info retrieved from Kaggle and the other dataset has been gathered by web-scraping weather site. My team and I implemented a model to predict weather-induced airline delays using ML algorithm random Forest and built a [streamlit](https://streamlit.io) application to provide an user-interactive interfce.
+
   - [Principal Components Analysis with numpy:](https://github.com/mwpnava/Data-Science-Projects/tree/master/PCA_numpy) In this project, I will apply PCA to a dataset without using any of the popular machine learning libraries such as scikit-learn and statsmodels. The goal of this document is to have a deeper understanding of the PCA fundamentals using functions just from numpy library.
 
   - [Shopper Segmentation (Unsupervised Learning):](https://github.com/mwpnava/Data-Science-Projects/tree/master/ShopperSegments_prediction) The objective of this project is to segment shoppers from a dataset given. K-Means, Agglomerative and DBSCAN are the three different unsupervised machine learning algorithms used for the project. At the end of the notebook, you can find the evaluation of those models comparing metrics as ARS (Adjusted Rand Score), NMI (Normalized Mutual Information) and Average Score.
@@ -16,7 +20,7 @@ through Jupyter Notebooks and datasets (csv files).
 
   - [Predictions of Admissions to Master's Degree (Supervised Learning):](https://github.com/mwpnava/Data-Science-Projects/tree/master/Graduate_admissions) Using a Linear Regression Algorithm, this project was developed to predict the chance of admission of foreign students to Master's Degree Programs in American Colleges.
 
-*Tools: Python 3, Scikit-learn, pandas, numpy, matplotlib and seaborn*
+*Tools: Python 3, Scikit-learn, pandas, numpy, matplotlib streamlit, seaborn, nltk*
 
 
 - ### Data Analytics, Visualization and miscellaneous
